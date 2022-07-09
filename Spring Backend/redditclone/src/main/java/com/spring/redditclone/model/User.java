@@ -30,5 +30,5 @@ public class User {
     @NotEmpty(message = "Email is required")
     private String email;
     private Instant created;
-    private boolean enabld;
+    private boolean enabled;
 }

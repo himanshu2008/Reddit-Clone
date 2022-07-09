@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-RedditcloneApplication<redditclone>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.spring.redditclone.RedditcloneApplication",
+            "projectName": "redditclone",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
